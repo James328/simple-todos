@@ -1,0 +1,7 @@
+MongoDB shell version: 3.0.3
+connecting to: ds119748.mlab.com:19748/intense-coast-44966
+2016-12-04T20:14:39.264-0600 E QUERY    Error: 18 Authentication failed.
+    at DB._authOrThrow (src/mongo/shell/db.js:1266:32)
+    at (auth):6:8
+    at (auth):7:2 at src/mongo/shell/db.js:1266
+exception: login failed
